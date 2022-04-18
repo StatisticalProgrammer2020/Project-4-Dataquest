@@ -1,7 +1,6 @@
 ---
 title: "Exploring Forest Fire Data"
 author: "Abe Ceasar Perez"
-date: "March 21, 2022"
 output: html_document
 ---
 
@@ -9,7 +8,8 @@ output: html_document
 
 This project aims to identify possible factors which lead to the occurrence of forest fires in Portugal. We'll be working as a researcher to supplement additional findings in a study conducted by P. Cortez which is linked here: <http://www3.dsi.uminho.pt/pcortez/fires.pdf>
 
-In addition to the objectives above, we'll be applying the following concepts in this project:
+For this project, the following concepts were applied in order to accomplish the objectives above:
+
 - Barplots
 - Scatterplots
 - Multiple charting
